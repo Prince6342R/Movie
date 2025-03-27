@@ -11,8 +11,7 @@ h1{
     font-size: 30px;
     font-family: arial;
     text-decoration: dotted underline;
-    text-align: center;
-    
+    text-align: center;  
 }
 
 
@@ -52,10 +51,10 @@ a{
 }
 
 
-body{
+/* body{
     background-color:wheat;
 }
-
+ */
 
 img{
     width: 1;
