@@ -51,10 +51,7 @@ a{
 }
 
 
-/* body{
-    background-color:wheat;
-}
- */
+
 
 img{
     width: 1;
@@ -123,15 +120,11 @@ div{
     height:320;
     width:800;
     margin-top:  5px;
-    /* border:2px solid blue; */
     padding: 30px;
     
 
 }
 
-#head{
-    padding: 0px;
-}
 
 #headpic{
     width: 100%;
